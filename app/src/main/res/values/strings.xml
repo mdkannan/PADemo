@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">PADemo</string>
+    <string name="enter_your_phone_number">Enter your phone number</string>
+    <string name="title_activity_menu">Park App</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Park App Ltd</string>
+    <string name="nav_header_subtitle">parkapp2@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="bookfragment">Booking space Fragment</string>
+    <string name="mybooking_fragment">My Booking</string>
+    <string name="info_fragment">booking info Fragment</string>
+    <string name="payments_fragment">Payments Fragment</string>
+    <string name="refer_fragment">Refer Fragment</string>
+    <string name="support_fragment">Support Fragment</string>
+    <string name="about_fragment">about</string>
+    <string name="s_fragment">support</string>
+</resources>
